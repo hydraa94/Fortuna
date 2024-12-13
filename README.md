@@ -2,8 +2,7 @@
 
 ## **Description**
 
-Fortuna AI is an interactive chatbot built with React, utilizing the power of the Nvidia API to generate AI-driven responses. This chatbot features a modern user interface with a glassmorphism effect and smooth scrolling, providing an engaging user experience. It supports Markdown rendering for rich-text responses and offers seamless integration with external AI services.
-
+Fortuna AI is an interactive chatbot built with React, utilizing the power of the Nvidia API to generate AI-driven responses.
 ---
 
 ## **Technologies Used**
