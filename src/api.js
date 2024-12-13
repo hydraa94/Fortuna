@@ -1,5 +1,5 @@
 export const getResponse = async (input) => {
-  const url = "/api/v1/chat/completions"; // Use proxy path
+  const url = "https://integrate.api.nvidia.com/v1/chat/completions"; // Use proxy path
   const options = {
     method: "POST",
     headers: {
