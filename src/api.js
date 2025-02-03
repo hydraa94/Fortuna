@@ -5,7 +5,7 @@ export const getResponse = async (input) => {
     headers: {
       "Content-Type": "application/json",
       Authorization:
-        "Bearer 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",
+        "Bearer <nvidia-nemotron-api-key>",
     },
     body: JSON.stringify({
       model: "nvidia/llama-3.1-nemotron-70b-instruct",
