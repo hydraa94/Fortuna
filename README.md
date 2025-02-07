@@ -20,13 +20,13 @@ Fortuna AI is an interactive chatbot built with React, utilizing the power of th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fortuna-ai-chatbot.git
+   git clone https://github.com/hydraa94/Fortuna.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd fortuna-ai-chatbot
+   cd Fortuna
    ```
 
 3. Install the dependencies:
